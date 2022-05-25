@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorFullStackCrud.Server
 build_property.RootNamespace = BlazorFullStackCrud.Server
-build_property.ProjectDir = D:\Documentos\01. FACULDADE\crud\BlazorFullStackCrud\BlazorFullStackCrud\Server\
+build_property.ProjectDir = D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Documentos\01. FACULDADE\crud\BlazorFullStackCrud\BlazorFullStackCrud\Server
+build_property.MSBuildProjectDirectory = D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Documentos/01. FACULDADE/crud/BlazorFullStackCrud/BlazorFullStackCrud/Server/Pages/Error.cshtml]
+[D:/Documentos/Projetos/crud/dotnet-crud/BlazorFullStackCrud/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -2931,19 +2931,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jorge\\.nuget\\packages\\": {}
+    "C:\\Users\\04880245283\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\01. FACULDADE\\crud\\BlazorFullStackCrud\\BlazorFullStackCrud\\Server\\BlazorFullStackCrud.Server.csproj",
+      "projectUniqueName": "D:\\Documentos\\Projetos\\crud\\dotnet-crud\\BlazorFullStackCrud\\Server\\BlazorFullStackCrud.Server.csproj",
       "projectName": "BlazorFullStackCrud.Server",
-      "projectPath": "D:\\Documentos\\01. FACULDADE\\crud\\BlazorFullStackCrud\\BlazorFullStackCrud\\Server\\BlazorFullStackCrud.Server.csproj",
-      "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\01. FACULDADE\\crud\\BlazorFullStackCrud\\BlazorFullStackCrud\\Server\\obj\\",
+      "projectPath": "D:\\Documentos\\Projetos\\crud\\dotnet-crud\\BlazorFullStackCrud\\Server\\BlazorFullStackCrud.Server.csproj",
+      "packagesPath": "C:\\Users\\04880245283\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos\\Projetos\\crud\\dotnet-crud\\BlazorFullStackCrud\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\04880245283\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2957,11 +2957,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Documentos\\01. FACULDADE\\crud\\BlazorFullStackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj": {
-              "projectPath": "D:\\Documentos\\01. FACULDADE\\crud\\BlazorFullStackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj"
+            "D:\\Documentos\\Projetos\\crud\\dotnet-crud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj": {
+              "projectPath": "D:\\Documentos\\Projetos\\crud\\dotnet-crud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj"
             },
-            "D:\\Documentos\\01. FACULDADE\\crud\\BlazorFullStackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj": {
-              "projectPath": "D:\\Documentos\\01. FACULDADE\\crud\\BlazorFullStackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj"
+            "D:\\Documentos\\Projetos\\crud\\dotnet-crud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj": {
+              "projectPath": "D:\\Documentos\\Projetos\\crud\\dotnet-crud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj"
             }
           }
         }
@@ -3017,7 +3017,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

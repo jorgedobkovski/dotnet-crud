@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdyZNTnLZjPs7Qhm3rmbnBTTLMYV+RKbCbtzkbdRwrNIOkN8y0rvzRPKt84uqb/j1AwP6IEtCsYY/5jKitpyVg==",
+  "dgSpecHash": "XBoxBeOKERC2E27fN6eYDH55E8jkg0bzRKDSgqmoEfTP921KYPxK/IxKRK3gnBZqWQlTMYD61pWgSeCIQIeEzQ==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\01. FACULDADE\\crud\\BlazorFullStackCrud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj",
+  "projectFilePath": "D:\\Documentos\\Projetos\\crud\\dotnet-crud\\BlazorFullStackCrud\\Shared\\BlazorFullStackCrud.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

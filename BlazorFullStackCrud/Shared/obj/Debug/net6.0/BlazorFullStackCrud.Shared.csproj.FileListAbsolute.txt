@@ -10,3 +10,15 @@ D:\Documentos\01. FACULDADE\crud\BlazorFullStackCrud\BlazorFullStackCrud\Shared\
 D:\Documentos\01. FACULDADE\crud\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\refint\BlazorFullStackCrud.Shared.dll
 D:\Documentos\01. FACULDADE\crud\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.pdb
 D:\Documentos\01. FACULDADE\crud\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\ref\BlazorFullStackCrud.Shared.dll
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.deps.json
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.dll
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.pdb
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.csproj.AssemblyReference.cache
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.AssemblyInfoInputs.cache
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.AssemblyInfo.cs
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.dll
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\refint\BlazorFullStackCrud.Shared.dll
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.pdb
+D:\Documentos\Projetos\crud\dotnet-crud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\ref\BlazorFullStackCrud.Shared.dll

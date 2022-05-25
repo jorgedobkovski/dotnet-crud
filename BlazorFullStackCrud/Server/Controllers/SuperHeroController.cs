@@ -16,7 +16,7 @@ namespace BlazorFullStackCrud.Server.Controllers
         [HttpGet]
         public async Task<ActionResult<List<SuperHero>>> GetSuperHeroes()
         {
-            var heroes = await _context.SuperHeroes.ToListAsync();
+            var heroes = await _context.SuperHeroes.Include(h => h.Comic).ToListAsync();
             return Ok(heroes);
         }
 
@@ -41,7 +41,7 @@ namespace BlazorFullStackCrud.Server.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<SuperHero>> CreateSuperHero(SuperHero hero)
+        public async Task<ActionResult<List<SuperHero>>> CreateSuperHero(SuperHero hero)
         {
             hero.Comic = null;
             _context.SuperHeroes.Add(hero);
